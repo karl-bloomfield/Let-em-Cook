@@ -4,7 +4,7 @@
 
 ## Check it out
 
-Visit https://let-em-cook.pushed.nz/about and cehck out our app!
+Visit https://let-em-cook.pushed.nz and cehck out our app!
 
 ## How it works
 
