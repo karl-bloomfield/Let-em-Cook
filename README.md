@@ -16,5 +16,5 @@ Visit https://let-em-cook.pushed.nz and cehck out our app!
 
 - Full Stack web app, using an external API.
 - Worked on project as Backend Developer.
-- Worked on backend filters on the API and through to the frontend search functions.
+- Worked on filters on the API and through to the frontend search functions.
 
